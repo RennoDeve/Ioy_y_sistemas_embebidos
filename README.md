@@ -1,1 +1,1 @@
-"# practica1_sensor_de_temperatura" 
+Repositorio de practicas
